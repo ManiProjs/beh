@@ -8,7 +8,7 @@ It doesn't need
 
 _Psst, you can open a image with the most hated image format (WebP) with it_
 
-[![alt text](//beh_preview.mp4)](beh_preview.mp4)
+![A preview](beh_preview.mp4)
 
 ## Installation
 
