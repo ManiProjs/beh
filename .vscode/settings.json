@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.cman": "json",
+        "globals.css": "tailwindcss",
+        "stdexcept": "cpp"
+    }
+}

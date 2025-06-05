@@ -1,0 +1,4 @@
+# Build files
+build/
+cmake-build-release/
+cmake-build-debug/
