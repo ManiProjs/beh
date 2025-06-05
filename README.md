@@ -4,11 +4,9 @@ _beh_ (**B**etter `feh`) is a lightweight, cross-platform image viewer and an al
 
 It's supposes to be lightweight, cross-platform, free, open-source and easy to use, just takes a image path
 
-It doesn't need 
-
 _Psst, you can open a image with the most hated image format (WebP) with it_
 
-![A preview](beh_preview.mp4)
+https://github.com/user-attachments/assets/d3c0d9aa-f4ce-4bab-bd2d-3b229c7bb608
 
 ## Installation
 
